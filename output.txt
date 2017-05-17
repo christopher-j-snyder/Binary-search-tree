@@ -1,0 +1,7 @@
+Total number of strings in the input file: 6
+Height of the binary search tree: 2
+No. of leaves in the binary search tree is: 3
+Height of the left subtree of the root: 1
+No. of strings in the left subtree of the root: 2
+Height of the right subtree of the root: 1
+No. of strings in the right subtree of the root: 3
